@@ -69,10 +69,9 @@ aside ul.top li:hover .sub{
 }
 
 section{
-    float:right;
-    width:75%;
-    margin:3% 12% 1% 0;
-    padding:3% 0 1% 0;
+    width:100%;
+    margin:1% 0% 1% 0;
+    padding:1% 0 1% 0;
     overflow:auto;
 }
 
